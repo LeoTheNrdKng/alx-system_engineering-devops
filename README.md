@@ -1,0 +1,1 @@
+This repository contains files for the 0x00: Shell Navigation project.
