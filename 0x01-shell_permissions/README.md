@@ -1,0 +1,1 @@
+This directory contains scripts for the 0x01: Shell Permissions. More will be added later.
