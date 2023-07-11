@@ -1,0 +1,1 @@
+This readme file contains work on init files, variables, and expansions.
